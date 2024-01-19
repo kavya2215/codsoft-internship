@@ -1,0 +1,117 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.header h1{
+    display:inline;
+    color: blueviolet;
+
+}
+.header h3{
+    display: inline;
+    color: blueviolet;
+}
+.about img{
+    height: 200px;
+    width: 200px;
+    padding-left: 300px;
+    padding-right: 100px;
+    display:inline;
+}
+.about h2{
+    display:inline;
+    color: rgb(225, 9, 9);
+
+}
+
+.about p{
+    height: auto;
+    display:block;
+    width:300px;
+    padding-top: 20px;
+    padding-left: 600px;
+    padding-right: 300px;
+    color:blueviolet;
+    
+}
+.skills h2{
+    display:block;
+    height:auto;
+    width:20px;
+    padding: 20px;
+    color: rgb(225, 9, 9);
+
+}
+.skills p{
+    display:inline;
+    height:auto;
+    width:20px;
+    padding-top: 40px;
+    padding-right: 300px;
+    color: blueviolet;
+    
+}   
+.skills  p img{
+    display:inline;     
+    height:75px;
+    width:75px;
+    padding-left: 10px;
+
+}
+.skills h2 img{
+    height:75px;
+    width:75px;
+    padding-left: 10px;
+}
+.projects h2 {
+    display:block;
+    height:auto;
+    width:20px;
+    padding: 30px;
+    color: rgb(225, 9, 9);
+
+}
+.projects p{
+    display: inline;
+    height:40px;
+    width:30px;
+    padding: 40px;
+    color: black;
+}
+.projects img{
+    height:100px;
+    width:350px;
+    padding-left:12px;
+    display:inline-block;
+}z
+.resume{
+    padding: 15px;
+    color: blue;
+}
+.contact h2{
+    padding:15px;
+    color: rgb(225, 9, 9);
+}
+.contact p{
+    display:inline;
+    height:auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    width:30px;
+    
+}
+.contact img{
+    display:inline;
+    width: 50px;
+    height:50px;
+    padding-bottom: 0px;
+}
+.footer{
+    display:inline;
+    color:red;
+    text-align: center;
+    padding:20px;
+    width:5px;
+    height:auto;
+}
